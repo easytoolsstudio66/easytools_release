@@ -1,3 +1,3 @@
-# EasyVPN Releases
+# Module Releases
 
-Official releases for EasyVPN.
+Official releases for EasyToolsStudio.
